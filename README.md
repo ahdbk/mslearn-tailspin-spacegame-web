@@ -1,4 +1,6 @@
 
+[![Build Status](https://ahdbk.visualstudio.com/space%20game/_apis/build/status/ahdbk.mslearn-tailspin-spacegame-web?branchName=master)](https://ahdbk.visualstudio.com/space%20game/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
